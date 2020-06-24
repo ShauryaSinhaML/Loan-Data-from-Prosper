@@ -50,7 +50,7 @@
 > - on an average the Loan amount for debt consolidation was th highest and lowest for student use
 
 
-## Key Insights for Presentation
+## Key Insights for Blog:
 
 > - Having **credit score >729.5 , grade  AA , A , B, D , C and Prosper Score in between (6-9)** and having a job of **Executive Followed by computer programmer** demanding a loan for **Debt Consolidation** will ensure higher chances to get an Elite Loan(loan>10000).
 > - Lender Yield is directly proportional to borrowAPR , Borrow Rate and Estimated Effective Yield
