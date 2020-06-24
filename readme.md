@@ -8,6 +8,12 @@
 > - This data dictionary explains the variables in the data set.
 > - You are not expected to explore all of the variables in the dataset! Focus your exploration on about 10-15 of them.
 
+## Imports
+
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
 ## Summary of Findings
 
